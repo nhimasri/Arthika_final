@@ -1,0 +1,6 @@
+{
+  "name": "Arthika",
+  "description": "Smart personal finance management and dynamic budget optimization Android app with local rule-based SMS transaction detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

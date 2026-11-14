@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Arthika</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_budgets">Budgets</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_profile">Profile</string>
+    <string name="sms_onboarding_title">Connect your transaction messages to Arthika.</string>
+    <string name="sms_onboarding_subtitle">Arthika identifies bank credit and debit alerts locally on your device and organizes your financial records automatically.</string>
+    <string name="sms_privacy_guarantee">100% offline processing. Raw SMS content and OTPs are never uploaded or stored.</string>
+    <string name="action_enable_sms">Enable SMS Detection</string>
+    <string name="action_continue_without_sms">Continue Without SMS</string>
+    <string name="safe_to_spend_title">Today\'s Safe-to-Spend</string>
+    <string name="spent_today">Spent today</string>
+    <string name="remaining_today">Remaining</string>
+    <string name="latest_transactions">Latest Transactions</string>
+    <string name="see_all">See all</string>
+    <string name="all_money_movement">All your money movement</string>
+    <string name="search_transactions_hint">Search transactions</string>
+    <string name="mark_as_transfer">Mark as transfer between my accounts</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="what_if_title">What-If Financial Simulator</string>
+    <string name="survival_mode_title">End-of-Month Survival Mode</string>
+</resources>
